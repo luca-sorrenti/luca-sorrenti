@@ -1,0 +1,3 @@
+- Hi, my name is Luca Sorrenti. I'm currently in my third year of Mechanical Engineering and have developed a strong foundation in Python that I wish to build on. 
+- Interested on expanding my knowledge, showcasing my work, and seeing how my skills can be applied. 
+- Connect with me on LinkedIn! I'd love to collaborate. https://www.linkedin.com/in/lucasorrenti/
